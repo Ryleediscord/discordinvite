@@ -1,1 +1,1 @@
-<img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="https://raw.githubusercontent.com/Ryleediscord/discordinvite/master/20170805_170314.png" alt="logo" style="width:300px;height:300px;">
